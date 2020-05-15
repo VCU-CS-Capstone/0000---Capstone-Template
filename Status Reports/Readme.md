@@ -29,7 +29,6 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 
 ## 2nd Semester
 
-| Project Plan | Overall week by week plan of milestones | |
 | Week 1 Status Report | | | 
 | Week 2 Status Report | | |
 | Week 3 Status Report | | |
