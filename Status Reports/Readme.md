@@ -29,6 +29,8 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 
 ## 2nd Semester
 
+| Document | Description | Document Name |
+|---|---|---|
 | Week 1 Status Report | | | 
 | Week 2 Status Report | | |
 | Week 3 Status Report | | |
