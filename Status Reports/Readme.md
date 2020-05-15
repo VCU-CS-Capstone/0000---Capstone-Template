@@ -5,7 +5,7 @@ Project Plan Template: https://github.com/openmainframeproject-internship/resour
 
 Status Report Template: https://github.com/openmainframeproject-internship/resources/blob/master/forms/Weekly%20Project%20Status.docx
 
-##1st Semester
+## 1st Semester
 
 | Document | Description | Document Name |
 |---|---|---|
@@ -27,7 +27,7 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 | Week 15 Status Report | | |
 | Week 16 Status Report | | |
 
-##2nd Semester
+## 2nd Semester
 
 | Project Plan | Overall week by week plan of milestones | |
 | Week 1 Status Report | | | 
