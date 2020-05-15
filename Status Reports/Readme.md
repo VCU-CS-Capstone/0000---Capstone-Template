@@ -4,7 +4,9 @@ Weekly/bi-weekly status reports go into this folder
 Project Plan Template: https://github.com/openmainframeproject-internship/resources/blob/master/forms/project_plan.md
 
 Status Report Template: https://github.com/openmainframeproject-internship/resources/blob/master/forms/Weekly%20Project%20Status.docx
+
 ##1st Semester
+
 | Document | Description | Document Name |
 |---|---|---|
 | Project Plan | Overall week by week plan of milestones | |
@@ -24,7 +26,9 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 | Week 14 Status Report | | |
 | Week 15 Status Report | | |
 | Week 16 Status Report | | |
+
 ##2nd Semester
+
 | Project Plan | Overall week by week plan of milestones | |
 | Week 1 Status Report | | | 
 | Week 2 Status Report | | |
