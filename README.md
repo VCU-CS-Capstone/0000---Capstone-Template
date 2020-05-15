@@ -14,4 +14,5 @@ a better understanding of the problems you encountered during the developmemnt o
 
 ## Project Team
 - *Mentor's Name*  - *Company Affliation* - Mentor
-- *Mentee's Name* - *University* - Mentee
+- *Faculty Advisor's Name* - *Department* - Faculty Advisor
+- *Student's Name* - *major* - Student Team Member
