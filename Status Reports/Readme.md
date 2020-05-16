@@ -1,7 +1,7 @@
 # Status Reports Folder
 Weekly/bi-weekly status reports go into this folder
 
-Project Plan Template: https://github.com/openmainframeproject-internship/resources/blob/master/forms/project_plan.md
+Project Plan Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Template/blob/master/Status%20Reports/Project%20Plan.md
 
 Status Report Template: https://github.com/openmainframeproject-internship/resources/blob/master/forms/Weekly%20Project%20Status.docx
 
