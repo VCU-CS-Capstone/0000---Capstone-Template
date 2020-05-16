@@ -1,7 +1,11 @@
 # *CSnnn Project Name*
+**Sponsor:**
+
 **Student's Name:**
 
 **Mentor:**
+
+**Faculty Advisor:**
 
 **Project:**
 
